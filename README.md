@@ -5,4 +5,4 @@
 languages.
 3) Ensured real-time translation with minimal latency, preserving the original speaker’s tone and intent.
 
-##Steps to run the project
+## Steps to run the project
